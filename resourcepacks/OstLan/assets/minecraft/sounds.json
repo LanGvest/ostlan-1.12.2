@@ -1,0 +1,83 @@
+{
+	"entity.generic.splash": {
+		"sounds": [
+			"liquid/splash",
+			"liquid/splash2",
+			"liquid/splash3"
+		],
+		"subtitle": "subtitles.entity.generic.splash"
+	},
+	"entity.generic.swim": {
+		"sounds": [
+			"liquid/swim1",
+			"liquid/swim2",
+			"liquid/swim3",
+			"liquid/swim4",
+			"liquid/swim5",
+			"liquid/swim6",
+			"liquid/swim7",
+			"liquid/swim8",
+			"liquid/swim9",
+			"liquid/swim10",
+			"liquid/swim11",
+			"liquid/swim12",
+			"liquid/swim13",
+			"liquid/swim14"
+		],
+		"subtitle": "subtitles.entity.generic.swim"
+	},
+	"entity.hostile.splash": {
+		"sounds": [
+			"liquid/splash",
+			"liquid/splash2",
+			"liquid/splash3"
+		],
+		"subtitle": "subtitles.entity.generic.splash"
+	},
+	"entity.hostile.swim": {
+		"sounds": [
+			"liquid/swim1",
+			"liquid/swim2",
+			"liquid/swim3",
+			"liquid/swim4",
+			"liquid/swim5",
+			"liquid/swim6",
+			"liquid/swim7",
+			"liquid/swim8",
+			"liquid/swim9",
+			"liquid/swim10",
+			"liquid/swim11",
+			"liquid/swim12",
+			"liquid/swim13",
+			"liquid/swim14"
+		],
+		"subtitle": "subtitles.entity.generic.swim"
+	},
+	"entity.player.splash": {
+		"sounds": [
+			"liquid/splash",
+			"liquid/splash2",
+			"liquid/splash3"
+		],
+		"subtitle": "subtitles.entity.generic.splash"
+	},
+	"entity.player.swim": {
+		"sounds": [
+			"liquid/swim1",
+			"liquid/swim2",
+			"liquid/swim3",
+			"liquid/swim4",
+			"liquid/swim5",
+			"liquid/swim6",
+			"liquid/swim7",
+			"liquid/swim8",
+			"liquid/swim9",
+			"liquid/swim10",
+			"liquid/swim11",
+			"liquid/swim12",
+			"liquid/swim13",
+			"liquid/swim14"
+		],
+		"subtitle": "subtitles.entity.generic.swim"
+	}
+}
