@@ -2,3 +2,9 @@
 /logs
 /natives
 /saves
+/.mixin.out
+/crash-reports
+/signpic
+/snapshots-server
+usercache.json
+usernamecache.json
