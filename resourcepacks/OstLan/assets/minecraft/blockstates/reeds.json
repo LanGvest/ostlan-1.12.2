@@ -3,8 +3,8 @@
         "normal": [
 			{ "model": "reeds" },
 			{ "model": "reeds" },
-			{ "model": "reeds_leaves" },
-			{ "model": "reeds_leaves2" }
+			{ "model": "reeds_leaves_0" },
+			{ "model": "reeds_leaves_1" }
 		]
     }
 }

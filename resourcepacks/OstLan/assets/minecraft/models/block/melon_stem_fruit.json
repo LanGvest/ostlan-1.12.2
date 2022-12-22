@@ -3,6 +3,6 @@
 	"textures": {
 		"stem": "blocks/melon_stem_disconnected",
 		"upperstem": "blocks/melon_stem_connected",
-		"leaves": "blocks/melon_grass_stage_6"
+		"leaves": "blocks/melon_grass_stage_3"
 	}
 }
