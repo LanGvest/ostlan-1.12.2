@@ -3,6 +3,7 @@
 		"minecraft:netherrack": "stone",
 		"minecraft:magma": "stone",
 		"biomesoplenty:bamboo": "futuremc:bamboo_step",
-		"biomesoplenty:bamboo_thatching": "futuremc:bamboo_step"
+		"biomesoplenty:bamboo_thatching": "futuremc:bamboo_step",
+		"futuremc:scaffolding": "futuremc:bamboo_step"
 	}
 }
