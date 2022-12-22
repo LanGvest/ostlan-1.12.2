@@ -1,0 +1,7 @@
+{
+    "parent": "block/base/stem_crop_stage_6",
+    "textures": {
+        "stem": "blocks/melon_stem_disconnected",
+		"leaves": "blocks/melon_grass_stage_6"
+    }
+}

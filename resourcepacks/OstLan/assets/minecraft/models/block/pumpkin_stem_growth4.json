@@ -1,0 +1,7 @@
+{
+	"parent": "block/base/stem_crop_stage_4",
+	"textures": {
+		"stem": "blocks/pumpkin_stem_disconnected",
+		"leaves": "blocks/pumpkin_grass_stage_4"
+	}
+}

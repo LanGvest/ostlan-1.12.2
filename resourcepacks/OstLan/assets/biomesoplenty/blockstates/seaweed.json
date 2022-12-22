@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "position=single,variant=kelp": { "model": "biomesoplenty:kelp" },
+        "position=bottom,variant=kelp": { "model": "biomesoplenty:kelp_plant" },
+        "position=middle,variant=kelp": { "model": "biomesoplenty:kelp_plant" },
+        "position=top,variant=kelp": { "model": "biomesoplenty:kelp" }
+    }
+}

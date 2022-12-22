@@ -1,0 +1,21 @@
+{
+    "variants": {
+        "variant=pink": [
+            { "model": "biomesoplenty:pink_coral" },
+            { "model": "biomesoplenty:pink_coral_fan" }
+        ],
+        "variant=orange": [
+            { "model": "biomesoplenty:orange_coral" },
+            { "model": "biomesoplenty:orange_coral_fan" }
+        ],
+        "variant=blue": [
+            { "model": "biomesoplenty:blue_coral" },
+            { "model": "biomesoplenty:blue_coral_fan" }
+        ],
+        "variant=glowing": [
+            { "model": "biomesoplenty:glowing_coral" },
+            { "model": "biomesoplenty:glowing_coral_fan" }
+        ],
+        "variant=algae": { "model": "biomesoplenty:algae" }
+    }
+}

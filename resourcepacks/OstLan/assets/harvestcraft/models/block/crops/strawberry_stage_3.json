@@ -1,0 +1,6 @@
+{
+	"parent":"block/base/fan_crop",
+	"textures": {
+		"fan": "harvestcraft:blocks/crops/strawberry_stage_3"
+	}
+}

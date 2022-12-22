@@ -1,0 +1,41 @@
+{
+	"textures": {
+		"texture": "harvestcraft:blocks/crops/pineapple",
+		"leaves": "harvestcraft:blocks/crops/pineapple_leaves",
+		"particle": "harvestcraft:blocks/crops/pineapple_particles_stage_1"
+	},
+	"elements": [
+		{
+			"from": [6, -1, 6],
+			"to": [10, 5, 10],
+			"faces": {
+				"north": {"uv": [4, 8, 8, 14], "texture": "#texture"},
+				"east": {"uv": [4, 8, 8, 14], "texture": "#texture"},
+				"south": {"uv": [4, 8, 8, 14], "texture": "#texture"},
+				"west": {"uv": [4, 8, 8, 14], "texture": "#texture"},
+				"up": {"uv": [4, 8, 8, 12], "texture": "#texture", "cullface": "up"},
+				"down": {"uv": [4, 8, 8, 12], "texture": "#texture", "cullface": "down"}
+			}
+		},
+		{
+			"from": [5, 5, 8],
+			"to": [11, 9, 8],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8.5, 8]},
+			"shade": false,
+			"faces": {
+				"north": {"uv": [9, 12, 15, 16], "texture": "#texture"},
+				"south": {"uv": [9, 12, 15, 16], "texture": "#texture"}
+			}
+		},
+		{
+			"from": [8, 5, 5],
+			"to": [8, 9, 11],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8.5, 8]},
+			"shade": false,
+			"faces": {
+				"east": {"uv": [9, 12, 15, 16], "texture": "#texture"},
+				"west": {"uv": [9, 12, 15, 16], "texture": "#texture"}
+			}
+		}
+	]
+}

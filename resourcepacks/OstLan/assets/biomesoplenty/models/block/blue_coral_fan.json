@@ -1,0 +1,6 @@
+{
+	"parent": "block/base/fan",
+	"textures": {
+		"fan": "biomesoplenty:blocks/blue_coral_fan"
+	}
+}

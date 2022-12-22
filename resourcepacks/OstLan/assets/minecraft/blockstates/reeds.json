@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+			{ "model": "reeds" },
+			{ "model": "reeds" },
+			{ "model": "reeds_leaves" },
+			{ "model": "reeds_leaves2" }
+		]
+    }
+}

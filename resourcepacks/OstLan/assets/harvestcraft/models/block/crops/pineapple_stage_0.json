@@ -1,0 +1,30 @@
+{
+	"ambientocclusion": false,
+	"textures": {
+		"texture": "harvestcraft:blocks/crops/pineapple",
+		"leaves": "harvestcraft:blocks/crops/pineapple_leaves",
+		"particle": "harvestcraft:blocks/crops/pineapple_particles_stage_0"
+	},
+	"elements": [
+		{
+			"from": [5, -1, 8],
+			"to": [11, 3, 8],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 2.5, 8]},
+			"shade": false,
+			"faces": {
+				"north": {"uv": [9, 12, 15, 16], "texture": "#texture"},
+				"south": {"uv": [9, 12, 15, 16], "texture": "#texture"}
+			}
+		},
+		{
+			"from": [8, -1, 5],
+			"to": [8, 3, 11],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 2.5, 8]},
+			"shade": false,
+			"faces": {
+				"east": {"uv": [9, 12, 15, 16], "texture": "#texture"},
+				"west": {"uv": [9, 12, 15, 16], "texture": "#texture"}
+			}
+		}
+	]
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "block/base/tall_crop",
+	"textures": {
+		"top": "harvestcraft:blocks/crops/corn_stage_3_top1",
+		"bottom": "harvestcraft:blocks/crops/corn_stage_3_bottom"
+	}
+}

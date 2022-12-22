@@ -1,0 +1,33 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"texture": "biomesoplenty:blocks/tinycactus",
+		"particle": "blocks/cactus_side"
+	},
+	"elements": [
+		{
+			"from": [ 5, 0, 5 ],
+			"to": [ 11, 13, 11 ],
+			"faces": {
+				"down": { "uv": [ 9, 9, 15, 15 ], "texture": "#texture", "cullface": "down" },
+				"up": { "uv": [ 9, 1, 15, 7 ], "texture": "#texture", "cullface": "up" }
+			}
+		},
+		{
+			"from": [ 5, 0, 4 ],
+			"to": [ 11, 13, 12 ],
+			"faces": {
+				"west": { "uv": [ 0, 0, 8, 13 ], "texture": "#texture" },
+				"east": { "uv": [ 0, 0, 8, 13 ], "texture": "#texture" }
+			}
+		},
+		{
+			"from": [ 4, 0, 5 ],
+			"to": [ 12, 13, 11 ],
+			"faces": {
+				"north": { "uv": [ 0, 0, 8, 13 ], "texture": "#texture" },
+				"south": { "uv": [ 0, 0, 8, 13 ], "texture": "#texture" }
+			}
+		}
+	]
+}
