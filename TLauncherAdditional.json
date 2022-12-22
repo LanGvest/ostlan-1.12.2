@@ -10,71 +10,7 @@
     "name": "OstLan 1.12.2",
     "favorite": false,
     "version": {
-      "mods": [
-        {
-          "stateGameElement": "active",
-          "id": -1632234426400,
-          "name": "BiomesOPlenty-1.12.2-7.0.1.2445-universal",
-          "favorite": false,
-          "version": {
-            "id": -1632252530000,
-            "name": "1.0",
-            "metadata": {
-              "sha1": "13c1e58ffec2a550b9698e25cda93b8d155007b0",
-              "size": 4746208,
-              "path": "mods/BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar",
-              "url": "mods/BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar"
-            },
-            "available": false
-          },
-          "userInstall": true,
-          "populateStatus": false,
-          "available": false,
-          "parser": false
-        },
-        {
-          "stateGameElement": "active",
-          "id": -1632252555100,
-          "name": "OptiFine-1.12.2_HD_U_G5",
-          "favorite": false,
-          "version": {
-            "id": -1632264885400,
-            "name": "1.0",
-            "metadata": {
-              "sha1": "db971767e460269f2317bb5df57d8f522be65e2c",
-              "size": 2457427,
-              "path": "mods/OptiFine-1.12.2_HD_U_G5.jar",
-              "url": "mods/OptiFine-1.12.2_HD_U_G5.jar"
-            },
-            "available": false
-          },
-          "userInstall": true,
-          "populateStatus": false,
-          "available": false,
-          "parser": false
-        },
-        {
-          "stateGameElement": "active",
-          "id": -1632264910300,
-          "name": "tlskincape1.12.2-1.4",
-          "favorite": false,
-          "version": {
-            "id": -1632265881900,
-            "name": "1.0",
-            "metadata": {
-              "sha1": "d0483ac68cbeea22d6a2c46984c4cc7de4d3ce42",
-              "size": 193898,
-              "path": "mods/tlskincape1.12.2-1.4.jar",
-              "url": "mods/tlskincape1.12.2-1.4.jar"
-            },
-            "available": false
-          },
-          "userInstall": true,
-          "populateStatus": false,
-          "available": false,
-          "parser": false
-        }
-      ],
+      "mods": [],
       "resourcePacks": [],
       "maps": [],
       "shaderpacks": [],
